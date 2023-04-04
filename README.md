@@ -3,6 +3,7 @@
 
 <h3 align="left">Screenshots:</h3>
 <img src="https://drive.google.com/uc?id=1-Uf7oUglzeXOc0P8m699WJaSo_K6rinc" alt="image1" width="900">
+<img src="https://drive.google.com/uc?id=1juqLffijKHjy3IYQNJ7bdMuTqn2-EXVS" alt="image1" width="900">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
